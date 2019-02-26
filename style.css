@@ -1,0 +1,33 @@
+html {box-sizing:border-box;}
+*,* :after, *:before {box-sizing:inherit;}
+
+.clockCon {
+	width: 400px;
+	height:300px;
+	margin: auto;
+	line-height: 300px;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	background-color: rgb(106,27,61);
+	border: 2px double rgb(59,10,50);
+	border-radius: 5px;
+	box-shadow:20px 20px 50px grey; 
+
+
+}
+
+.colorCon{
+
+	width: 400px;
+	height:300px;
+	margin: 20px auto;
+	line-height: 300px;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	border: 2px double rgb(59,10,50);
+	border-radius: 5px;
+	box-shadow:20px 20px 50px grey; 
+
+}
